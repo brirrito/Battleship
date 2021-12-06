@@ -2,7 +2,7 @@ import Gameboard from './gameboard';
 import Player from './player';
 import Drag from './drag';
 import gameboardView from '../view/gameboardView';
-import { elements } from '../../view/base';
+import { elements } from '/home/brirrito/the_odin_project/Battleship/src/app/view/base.js';
 
 const Game = (type) => {
   const p1 = Player('human');

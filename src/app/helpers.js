@@ -1,4 +1,4 @@
-import Ship from '../factories/ships';
+import Ship from '/home/brirrito/the_odin_project/Battleship/src/app/factories/ships.js';
 
 export const SHIP_TYPES = [
   'carrier',
@@ -8,7 +8,7 @@ export const SHIP_TYPES = [
   'destroyer',
 ];
 
-export const SHIP_TYPES = {
+export const SHIP_LENGTHS = {
   carrier: 5,
   battleship: 4,
   cruiser: 3,

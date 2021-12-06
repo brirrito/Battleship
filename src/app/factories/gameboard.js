@@ -6,7 +6,7 @@ const Gameboard = () => {
 
   let placedShips = [];
   const areAllShipsPlaced = () => placedShips.length === SHIP_TYPES.length;
-  }
+  
 
   const adjustCoords = (y0, x0, i, direction) => {
     let x = x0 + i;
@@ -87,6 +87,7 @@ const Gameboard = () => {
     autoPlaceFleet,
     reset,
   };
+}; 
 
 
 export default Gameboard;

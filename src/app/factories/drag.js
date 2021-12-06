@@ -1,4 +1,4 @@
-import { elements } from '../../views/base';
+import { elements } from '/home/brirrito/the_odin_project/Battleship/src/app/view/base.js';
 import gameboardView from '../view/gameboardView';
 
 const Drag = (p1, p1Board) => {

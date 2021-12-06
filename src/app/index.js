@@ -1,5 +1,5 @@
-import Game from '.src/app/factories/game.js';
-import { elements } from 'src/app/view/base.js';
+import Game from '/home/brirrito/the_odin_project/Battleship/src/app/factories/game.js';
+import { elements } from '/home/brirrito/the_odin_project/Battleship/src/app/view/base.js';
 import '/home/brirrito/the_odin_project/Battleship/src/style.css';
 
 
