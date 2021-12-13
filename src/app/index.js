@@ -1,6 +1,6 @@
 import Game from '/home/brirrito/the_odin_project/Battleship/src/app/factories/game.js';
 import { elements } from '/home/brirrito/the_odin_project/Battleship/src/app/view/base.js';
-import '/home/brirrito/the_odin_project/Battleship/src/style.css';
+import '/home/brirrito/the_odin_project/Battleship/src/style.scss';
 
 
 let gameType = 'singlePlayer';
